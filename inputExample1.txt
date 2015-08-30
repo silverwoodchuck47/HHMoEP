@@ -1,0 +1,11 @@
+# Source: http://www.ms.uky.edu/~lee/as100fa02/ex2.3.1.pdf
+# "../php.exe" -f "../hhmoep/hunt_hill_method.php" "../hhmoep/inputExample1.txt" 89 20 > outputExample1.txt
+
+Fairfield, 418384
+Hartford, 450189
+Litchfield, 87041
+Middlesex, 55999
+New Haven, 484316
+New London, 125224
+Tolland, 31866
+Windham, 56223
