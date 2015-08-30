@@ -1,0 +1,7 @@
+# Source: http://www.census.gov/history/www/reference/apportionment/methods_of_apportionment.html
+# "../php.exe" -f "../hhmoep/hunt_hill_method.php" "../hhmoep/inputExample2.txt" 20 12  > outputTest.txt
+
+A, 2560
+B, 3315
+C, 995
+D, 5012
