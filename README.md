@@ -38,6 +38,7 @@ To see the change in apportionment between the 2010 and 2020 censuses:
 ```
 ### Example Output of 2020 Census
 
+```
 Seat Assignments with Priority Value, Sorted in Descending Order:
 51  California::2  27984993
 52  Texas::2  20635702
@@ -514,13 +515,13 @@ EXECUTION LOG:
 * Number of states: 50
 * Highest number of seats assigned to one or more states: 52
 * Potential maximum number of seats to assign: 60
-
+```
 
 ### Example Output (Compare change from 2010 to 2020 Census)
 
 
 Change from ../hhmoep/input2010.txt and ../hhmoep/input2020.txt, including 0
-
+```
  0 Alabama
  0 Alaska
  0 Arizona
@@ -571,10 +572,10 @@ Change from ../hhmoep/input2010.txt and ../hhmoep/input2020.txt, including 0
 -1 West Virginia
  0 Wisconsin
  0 Wyoming
-
+```
 
 Change from ../hhmoep/input2010.txt and ../hhmoep/input2020.txt
-
+```
 -1 California
 +1 Colorado
 +1 Florida
@@ -596,3 +597,4 @@ EXECUTION LOG:
 * Script file name: ../hhmoep/hunt_hill_method_change.php
 * Input file name 1: ../hhmoep/input2010.txt
 * Input file name 2: ../hhmoep/input2020.txt
+```
