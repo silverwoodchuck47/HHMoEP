@@ -20,7 +20,7 @@
  *   3.  The output can be directed to a file with the appropriate command.  See Execution Instructions.
  *
  * Environment
- *   This works with PHP v5.3.
+ *   This works with PHP v5.3, 7.4.
  *
  * Input File Format
  *   1.  CSV-formatted where each state and its population is on its own line, separated by a comma, with the exception of
